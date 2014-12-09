@@ -1,0 +1,10 @@
+http://papa.org/live/playerIndex.php?disp=game&sel=A&game=107
+http://papa.org/live/playerIndex.php?disp=game&sel=A&game=108
+http://papa.org/live/playerIndex.php?disp=game&sel=A&game=104
+http://papa.org/live/playerIndex.php?disp=game&sel=A&game=106
+http://papa.org/live/playerIndex.php?disp=game&sel=A&game=105
+http://papa.org/live/playerIndex.php?disp=game&sel=A&game=102
+http://papa.org/live/playerIndex.php?disp=game&sel=A&game=103
+http://papa.org/live/playerIndex.php?disp=game&sel=A&game=101
+http://papa.org/live/playerIndex.php?disp=game&sel=A&game=110
+http://papa.org/live/playerIndex.php?disp=game&sel=A&game=109

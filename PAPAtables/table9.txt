@@ -1,0 +1,214 @@
+
+
+Rank	Name	Score	Points	Entry #	
+
+1	Joe Scaletta	945350	100	#3142	
+2	Joshua Henderson	564820	90	#3255	
+3	Zach Sharpe	501549	85	#2280	
+4	Kevin Birrell	479817	84	#3893	
+5	Zach Sharpe	364575	83	#276	
+6	Bowen Kerins	347864	82	#3519	
+7	Dave Stewart	338765	81	#2631	
+8	Kevin Birrell	315359	80	#853	
+9	Roy Wils	306470	79	#1214	
+10	Nick Zendejas	302691	78	#3448	
+11	Chris Basler	302556	77	#3812	
+12	Brian Shepherd	278074	76	#4086	
+13	Kevin Birrell	272822	75	#1042	
+14	Johnny Modica	245052	74	#1688	
+15	Colin MacAlpine	243770	73	#82	
+16	Al Thomka	230329	72	#1852	
+17	Chris Tabaka	207382	71	#3855	
+18	Karl DeAngelo	199417	70	#3808	
+19	Steve Zahler	190995	69	#1714	
+20	Chris Tabaka	189496	68	#2344	
+21	Kevin Birrell	184361	67	#854	
+22	Steven Bowden	182396	66	#2723	
+23	Cayle George	175598	65	#1109	
+24	Brian Shepherd	173631	64	#2586	
+25	Colin MacAlpine	170967	63	#3046	
+26	Roy Wils	169061	62	#2339	
+27	Ole Kristian Lien	167532	61	#2953	
+28	Josh Sharpe	165376	60	#3779	
+29	Jim Belsito	164310	59	#2276	
+30	John Flitton	161146	58	#4010	
+31	Karl DeAngelo	158119	57	#2141	
+32	Karl DeAngelo	157485	56	#2142	
+33	Steve Zahler	156863	55	#1715	
+34	Keith P Johnson	152436	54	#1032	
+35	Dave Stewart	152196	53	#131	
+36	Zach Sharpe	146910	52	#669	
+37	Kevin Birrell	140823	51	#2426	
+38	Dan Allen	139868	50	#182	
+39	Greg Galanter	134323	49	#1570	
+40	Frank Romero	134300	48	#1395	
+41	Trent Augenstein	132814	47	#392	
+42	Adam Becker	132679	46	#1787	
+43	Dave Stewart	132364	45	#1578	
+44	Steven Bowden	131357	44	#785	
+45	Maurice Pelletier	131248	43	#2502	
+46	Greg Galanter	125700	42	#3816	
+47	Greg Galanter	124087	41	#556	
+48	Dave Hubbard	123648	40	#2087	
+49	Francesco La Rocca	120600	39	#4014	
+50	Adam Becker	118692	38	#2656	
+51	Joe Scaletta	118648	37	#4071	
+52	Jerry Bernard	114274	36	#350	
+53	Roy Wils	113794	35	#1181	
+54	Dave Stewart	112878	34	#1843	
+55	Brian Teyssier	111424	33	#3	
+56	Robert Wong	107651	32	#947	
+57	Cryss Stephens	104493	31	#2578	
+58	Nick Zendejas	104026	30	#2455	
+59	Adam Becker	103435	29	#3748	
+60	Mike Pantino	101239	28	#3025	
+61	Francesco La Rocca	100955	27	#3089	
+62	Andrei Massenkoff	100548	26	#2524	
+63	Kevin Birrell	98935	25	#21	
+64	Steve Zahler	98791	24	#1966	
+65	Steven Bowden	95940	23	#2025	
+66	Roy Wils	90380	22	#1021	
+67	Kevin Birrell	84089	21	#1755	
+68	Greg Galanter	83627	20	#148	
+69	Al Thomka	83131	19	#45	
+70	Jon Replogle	82943	18	#1998	
+71	Greg Galanter	81872	17	#3015	
+72	Derek Fugate	79277	16	#1063	
+73	Kevin Birrell	79237	15	#3798	
+74	Greg Galanter	71441	14	#2345	
+75	Pete Hendricks	68854	13	#399	
+76	Richard Achterberg	67961	12	#2165	
+77	Joshua Henderson	67313	11	#2860	
+78	Steve Zahler	66829	10	#2351	
+79	Mike Pantino	66826	9	#3024	
+80	Derek Fugate	65549	8	#583	
+81	Maurice Pelletier	64779	7	#4111	
+82	Richard Achterberg	61871	6	#2844	
+83	Jeff Douglas	60853	5	#2078	
+84	Maurice Pelletier	59028	4	#3412	
+85	Jeff Douglas	58155	3	#2079	
+86	Ed Zeltmann	58137	2	#1378	
+87	Adam Lefkoff	58092	1	#1884	
+88	Johnny Modica	56838	0	#1162	
+89	Maurice Pelletier	55047	0	#2132	
+90	Johnny Modica	51956	0	#304	
+91	Debra Rymer	49884	0	#1493	
+92	Robert Sovatsky	49059	0	#1492	
+93	Joe Scaletta	48543	0	#3338	
+94	Greg Galanter	46417	0	#3676	
+95	Johnny Modica	43316	0	#1268	
+96	John Flitton	42253	0	#908	
+97	Andrew Rosa II	40361	0	#1873	
+98	Rob Thomas MD	39545	0	#1985	
+99	Cayle George	39453	0	#632	
+100	Joe Scaletta	38626	0	#1059	
+101	Cayle George	37871	0	#1027	
+102	Adam Becker	37186	0	#2496	
+103	James Daley	36822	0	#1827	
+104	Brett Berkman	36571	0	#1325	
+105	Dave Stewart	35523	0	#1842	
+106	Dave Hubbard	34779	0	#4046	
+107	Dave Stewart	32947	0	#925	
+108	Johnny Modica	32644	0	#793	
+109	Cryss Stephens	31982	0	#1834	
+110	Kevin Birrell	31547	0	#2530	
+111	Howard Levine	31438	0	#2970	
+112	Brian Shepherd	30842	0	#1302	
+113	Bob S Johnson	29536	0	#2299	
+114	Cayle George	29472	0	#1135	
+115	Nick Zendejas	29226	0	#717	
+116	Joshua Henderson	28721	0	#1144	
+117	Richard Achterberg	28509	0	#3396	
+118	Adam Becker	28482	0	#2068	
+119	Howard Levine	28384	0	#40	
+120	David Riel	28032	0	#1609	
+121	Maurice Pelletier	27540	0	#3972	
+122	Ed Zeltmann	27513	0	#1379	
+123	Ed Zeltmann	27484	0	#2799	
+124	Rob Thomas MD	27184	0	#1984	
+125	Rob Thomas MD	27040	0	#1240	
+126	Chris Tabaka	26983	0	#2797	
+127	Chris Tabaka	26886	0	#2030	
+128	Ed Zeltmann	26854	0	#3922	
+129	Dave Stewart	26538	0	#2406	
+130	Al Thomka	26352	0	#342	
+131	Joe Scaletta	25590	0	#3593	
+132	Robert Sovatsky	24749	0	#1489	
+133	Francesco La Rocca	24456	0	#1158	
+134	Joshua Henderson	24322	0	#3707	
+135	Robert Sagstetter	24169	0	#94	
+136	Joshua Henderson	24164	0	#2859	
+137	Joe Scaletta	24132	0	#1058	
+138	Adam Becker	24016	0	#2067	
+139	Keith P Johnson	23989	0	#126	
+140	Steven Bowden	23987	0	#2026	
+141	Derek Fugate	23807	0	#4088	
+142	Brett Berkman	23797	0	#778	
+143	Ed Zeltmann	22891	0	#3673	
+144	Johnny Modica	22790	0	#1161	
+145	Pete Hendricks	22541	0	#3981	
+146	James Daley	21873	0	#1724	
+147	Jeff Douglas	20738	0	#3020	
+148	Kevin Birrell	20297	0	#1041	
+149	Brett Berkman	20275	0	#2734	
+150	Adam Becker	20181	0	#2495	
+151	Francesco La Rocca	19625	0	#1671	
+152	Escher Lefkoff	19248	0	#672	
+153	Derek Fugate	19167	0	#1064	
+154	David Dahl-Hansson	19017	0	#2518	
+155	Dan Woodske	18923	0	#1405	
+156	Maurice Pelletier	18500	0	#1022	
+157	Fred Cochran	18425	0	#1095	
+158	Francesco La Rocca	18357	0	#3088	
+159	Brett Berkman	18150	0	#2735	
+160	Zach Sharpe	17722	0	#3804	
+161	Escher Lefkoff	16139	0	#270	
+162	William Wulf	15881	0	#799	
+163	Ronny Hansen	15731	0	#457	
+164	Sinan Cengil	15309	0	#95	
+165	Andrei Massenkoff	15050	0	#2313	
+166	Mahesh Murthy	14614	0	#1651	
+167	Brian Shepherd	14608	0	#2246	
+168	Maurice Pelletier	14589	0	#3266	
+169	John Bowes	14354	0	#2894	
+170	Pete Hendricks	14178	0	#398	
+171	Al Thomka	14130	0	#2591	
+172	Ole Kristian Lien	14006	0	#2952	
+173	Kaite Martin	13917	0	#2469	
+174	Brian Shepherd	13862	0	#490	
+175	Dan Allen	13474	0	#2011	
+176	Al Thomka	13259	0	#1853	
+177	Karyn Kiser	13012	0	#3067	
+178	joe  Schall	12875	0	#3060	
+179	Jon Replogle	12458	0	#725	
+180	Karl DeAngelo	12300	0	#2436	
+181	Debra Rymer	12105	0	#415	
+182	Joe Said	11869	0	#4017	
+183	Bob S Johnson	11661	0	#3979	
+184	Richard Wickersham	11616	0	#3117	
+185	Koi Morris	11569	0	#2374	
+186	Andrew Rosa II	11429	0	#3994	
+187	Frank Romero	10661	0	#333	
+188	Greg Galanter	10599	0	#3677	
+189	Johnny Modica	10418	0	#303	
+190	Greg DeFeo	10316	0	#2889	
+191	Kevin Nickel	10086	0	#987	
+192	Dave Hubbard	10065	0	#2634	
+193	Kevin Birrell	9840	0	#2589	
+194	Rob Thomas MD	9783	0	#1239	
+195	Kevin Birrell	9230	0	#1226	
+196	Howard Levine	9176	0	#3544	
+196	Karl DeAngelo	9176	0	#98	
+198	Nick Zendejas	8897	0	#17	
+199	Jon Ehrlich	8599	0	#4082	
+200	Chris Tabaka	8245	0	#680	
+201	David Riel	8137	0	#2607	
+202	Robert Wong	8026	0	#396	
+203	Frank Romero	7748	0	#332	
+204	Damien Charlety	7704	0	#528	
+205	Karl DeAngelo	7655	0	#1544	
+206	Damien Charlety	7263	0	#1193	
+207	Adam McKinnie	6734	0	#165	
+208	Josh Sharpe	3421	0	#294	
+209	David Dahl-Hansson	2222	0	#26	
+210	Brett Berkman	1530	0	#1601	
